@@ -1,6 +1,6 @@
 .idea/
-./.idea/
-
+./.idea
+.idea
 ### Python ###
 __pycache__/
 *.py[cod]
